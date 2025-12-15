@@ -105,7 +105,7 @@
     "questionable": {
       "version": "0.10.15",
       "vcsRevision": "82d90b67bcfb7f2e918b61dace2ff1a4ced60935",
-      "url": "https://github.com/codex-storage/questionable",
+      "url": "https://github.com/logos-storage/questionable",
       "downloadMethod": "git",
       "dependencies": [],
       "checksums": {
