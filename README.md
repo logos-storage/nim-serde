@@ -44,7 +44,7 @@ let jsn2 = """{
               }"""
 assert !MyType2.fromJson(jsn2) == MyType2(field1: false, field2: true)
 
-# Note, the ! operator is part of https://github.com/codex-storage/questionable, which retrieves a value if set
+# Note, the ! operator is part of https://github.com/logos-storage/questionable, which retrieves a value if set
 ```
 
 Serialize all fields of a type (OptOut mode):

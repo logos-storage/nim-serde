@@ -1,4 +1,4 @@
-Copyright (c) 2024 Codex Storage
+Copyright (c) 2025 Logos Storage
 
 Licensed and distributed under either of
 [MIT license](http://opensource.org/licenses/MIT) or
